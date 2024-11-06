@@ -3,10 +3,9 @@
 
 How to reach me:
 
-![Static Badge](https://img.shields.io/badge/Telegram-%23fff?logo=telegram&logoColor=white&labelColor=%2326A5E4&color=%2326A5E4&link=https%3A%2F%2Ft.me%2FkseniaVlasenko)
-![Static Badge](https://img.shields.io/badge/Linkedin-%23fff?logo=linkedin&logoColor=white&labelColor=%230A66C2&color=%230A66C2&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Foksana-vlasenko-28b53919b%2F)
-![Static Badge](https://img.shields.io/badge/Gmail-%23fff?logo=gmail&logoColor=white&labelColor=%23EA4335&color=%23EA4335&link=mailto%3Avlasenkoksenia642%40gmail.com%3Fsubject%3DMessage%2520from%2520your%2520site%26body%3DHello%2C%2520I%2520would%2520like%2520to...)
-
+[![Telegram](https://img.shields.io/badge/Telegram-%23fff?logo=telegram&logoColor=white&labelColor=%2326A5E4&color=%2326A5E4)](https://t.me/kseniaVlasenko)
+[![Linkedin](https://img.shields.io/badge/Linkedin-%23fff?logo=linkedin&logoColor=white&labelColor=%230A66C2&color=%230A66C2)](https://www.linkedin.com/in/oksana-vlasenko-28b53919b/)
+[![Gmail](https://img.shields.io/badge/Gmail-%23fff?logo=gmail&logoColor=white&labelColor=%23EA4335&color=%23EA4335)](mailto:vlasenkoksenia642@gmail.com?subject=Message%20from%20your%20site&body=Hello,%20I%20would%20like%20to...)
 
 Check out my portfolio - [oksanaVlasenko](https://oksanavlasenko.github.io/vlasenko/#/)
 
