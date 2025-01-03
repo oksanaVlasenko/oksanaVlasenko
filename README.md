@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm glad to see you here!</h1>
-<h4>My name is Oksana and I'm a software developer with over 4 years of web development experience, proficient in JavaScript and Vue 2, and with solid skills in Vue 3, React.js, Node.js, Express.js, Tailwind CSS, and TypeScript. While I’ve dabbled in React, Vue has been my primary focus for the past 3+ years.</h4>
+<h4>My name is Oksana and I'm a software developer with over 4 years of web development experience. I'm proficient in JavaScript, Vue 2, Vue 3, React.js, Node.js, Express,js, Solid.js, Tailwind CSS, TypeScript etc. My goal is delivering the best possible user experience, performance, and intuitiveness in the products I develop.</h4>
 
 How to reach me:
 
