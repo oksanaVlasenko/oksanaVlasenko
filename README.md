@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm glad to see you here!</h1>
-<h4>Software developer with 5+ years of experience in Vue.js, React, Next.js, and Solid.js. Strong expertise in TypeScript, Tailwind CSS, and backend technologies (Node.js, Express.js, Prisma). Founder & Developer of</h4> [MurmLex](https://nextjs-dashboard-ebon-sigma-74.vercel.app/) <h4>– an AI-powered vocabulary platform. Passionate about performance optimization, intuitive UI, and mentoring.</h4>
+<h4>Software developer with 5+ years of experience in Vue.js, React, Next.js, and Solid.js. Strong expertise in TypeScript, Tailwind CSS, and backend technologies (Node.js, Express.js, Prisma). Founder & Developer of <a href="https://nextjs-dashboard-ebon-sigma-74.vercel.app/" target="_blank">MurmLex</a> – an AI-powered vocabulary platform. Passionate about performance optimization, intuitive UI, and mentoring.</h4>
 
 How to reach me:
 
