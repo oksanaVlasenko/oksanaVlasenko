@@ -14,6 +14,8 @@ Check out my portfolio - [oksanaVlasenko](https://oksanavlasenko.github.io/vlase
 
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat)](https://www.w3schools.com/css/)
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js)](https://nextjs.org/)
+![Solid.js](https://img.shields.io/badge/Solid.js-000000?style=flat&logo=solid)
+
 [![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=flat)](https://expressjs.com)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat)](https://www.w3.org/html/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
