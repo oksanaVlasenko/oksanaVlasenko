@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm glad to see you here!</h1>
-<h4>Software developer with 5+ years of experience in Vue.js, React, Next.js, and Solid.js. Strong expertise in TypeScript, Tailwind CSS, and backend technologies (Node.js, Express.js, Prisma). Founder & Developer of <a href="https://nextjs-dashboard-ebon-sigma-74.vercel.app/" target="_blank">MurmLex</a> – an AI-powered vocabulary platform. Passionate about performance optimization, intuitive UI, and mentoring.</h4>
+
+<h2>Software developer with 5+ years of experience in Vue.js, React, Next.js, and Solid.js. Strong expertise in TypeScript, Tailwind CSS, and backend technologies (Node.js, Express.js, Prisma). Founder & Developer of <a href="https://nextjs-dashboard-ebon-sigma-74.vercel.app/" target="_blank">MurmLex</a> – an AI-powered vocabulary platform. Passionate about performance optimization, intuitive UI, and mentoring.</h2>
 
 <h3>How to reach me:</h3>
 
@@ -7,7 +8,9 @@
 [![Linkedin](https://img.shields.io/badge/Linkedin-%23fff?logo=linkedin&logoColor=white&labelColor=%230A66C2&color=%230A66C2)](https://www.linkedin.com/in/oksana-vlasenko-28b53919b/)
 [![Gmail](https://img.shields.io/badge/Gmail-%23fff?logo=gmail&logoColor=white&labelColor=%23EA4335&color=%23EA4335)](mailto:vlasenkoksenia642@gmail.com?subject=Message%20from%20your%20site&body=Hello,%20I%20would%20like%20to...)
 
-Check out my website - [oksanaVlasenko](https://oksanavlasenko.github.io/vlasenko/#/)
+<h3>Check out my website:</h3>
+
+[oksanaVlasenko](https://oksanavlasenko.github.io/vlasenko/#/)
 
 <h2 align="left">Languages and Tools:</h2>
 
