@@ -12,10 +12,33 @@ Check out my portfolio - [oksanaVlasenko](https://oksanavlasenko.github.io/vlase
 
 <h2 align="left">Languages and Tools:</h2>
 
+### Frontend
+[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat)](https://vuejs.org/)
+[![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat)](https://reactjs.org/)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js)](https://nextjs.org/)
+[![Solid.js](https://img.shields.io/badge/Solid.js-000000?style=flat&logo=solid)](https://www.solidjs.com/)
+[![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?logo=nuxt.js&logoColor=white&style=flat)](https://nuxtjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)](https://www.typescriptlang.org/)
+
+### Backend
+[![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat)](https://nodejs.org)
+[![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=flat)](https://expressjs.com)
+[![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white&style=flat)](https://www.prisma.io/)
+
+### Styling
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat)](https://tailwindcss.com/)
+[![SCSS](https://img.shields.io/badge/SCSS-CC6699?logo=sass&logoColor=white&style=flat)](https://sass-lang.com/)
+
+### Tools
+[![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white&style=flat)](https://jestjs.io/)
+[![Google Generative AI](https://img.shields.io/badge/Google%20Generative%20AI-4285F4?logo=google&logoColor=white&style=flat)](https://cloud.google.com/generative-ai)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/oksanaVlasenko)
+[![Google Custom Search API](https://img.shields.io/badge/Google%20Custom%20Search%20API-F8F8F8?logo=google&logoColor=black&style=flat)](https://developers.google.com/custom-search)
+
+
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat)](https://www.w3schools.com/css/)
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js)](https://nextjs.org/)
-![Solid.js](https://img.shields.io/badge/Solid.js-000000?style=flat&logo=solid)
-
+[![Solid.js](https://img.shields.io/badge/Solid.js-000000?style=flat&logo=solid)](https://www.solidjs.com/)
 [![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=flat)](https://expressjs.com)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat)](https://www.w3.org/html/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
